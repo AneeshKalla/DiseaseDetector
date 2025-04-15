@@ -1,2 +1,4 @@
 # DiseaseDetector
-[![Watch the video](https://img.youtube.com/vi/AyO0EbqHJ5Q/0.jpg)](https://www.youtube.com/watch?v=AyO0EbqHJ5Q)
+
+https://github.com/user-attachments/assets/cec44a79-b591-41bf-a797-436e238ade2b
+
